@@ -48,73 +48,96 @@ List of research papers related to human pose.
 [paperswithcode](https://paperswithcode.com/task/3d-human-pose-estimation)
 
 - RPSM (ICCV 2019)
-  - [Qiu, Haibo, et al. "Cross view fusion for 3d human pose estimation." *Proceedings of the IEEE/CVF international conference on computer vision*. 2019.](https://paperswithcode.com/paper/cross-view-fusion-for-3d-human-pose)
+  - [Qiu, Haibo, et al. "Cross view fusion for 3d human pose estimation." *Proceedings of the IEEE/CVF international conference on computer vision*. 2019.](http://openaccess.thecvf.com/content_ICCV_2019/html/Qiu_Cross_View_Fusion_for_3D_Human_Pose_Estimation_ICCV_2019_paper.html)
+  - 3D keypoint
   - https://github.com/microsoft/multiview-human-pose-estimation-pytorch
   
 - Learnable Triangulation of Human Pose (ICCV 2019)
   - [Iskakov, Karim, et al. "Learnable triangulation of human pose." *Proceedings of the IEEE/CVF international conference on computer vision*. 2019.](http://openaccess.thecvf.com/content_ICCV_2019/html/Iskakov_Learnable_Triangulation_of_Human_Pose_ICCV_2019_paper.html)
+  - 3D keypoint
   - https://github.com/karfly/learnable-triangulation-pytorch
   
 - Epipolar Transformer (CVPR 2020)
   - [He, Yihui, et al. "Epipolar transformers." *Proceedings of the ieee/cvf conference on computer vision and pattern recognition*. 2020.](http://openaccess.thecvf.com/content_CVPR_2020/html/He_Epipolar_Transformers_CVPR_2020_paper.html)
+  - 3D keypoint
   - https://github.com/yihui-he/epipolar-transformers
   
 - LWCDR (CVPR 2020)
   - [Remelli, Edoardo, et al. "Lightweight multi-view 3d pose estimation through camera-disentangled representation." *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. 2020.](http://openaccess.thecvf.com/content_CVPR_2020/html/Remelli_Lightweight_Multi-View_3D_Pose_Estimation_Through_Camera-Disentangled_Representation_CVPR_2020_paper.html)
+  - 3D keypoint
   
 - UGCN (ECCV 2020)
   - [Wang, Jingbo, et al. "Motion guided 3d pose estimation from videos." *Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XIII 16*. Springer International Publishing, 2020.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2054_ECCV_2020_paper.php)
+  - 3D keypoint
   - https://github.com/tamasino52/UGCN
   
 - TesseTrack (CVPR 2021)
   - [Reddy, N. Dinesh, et al. "Tessetrack: End-to-end learnable multi-person articulated 3d pose tracking." *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. 2021.](http://openaccess.thecvf.com//content/CVPR2021/html/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.html)
+  - 3D keypoint
+  
+- HybrIK (CVPR 2021)
+  
+  - [Li, Jiefeng, et al. "Hybrik: A hybrid analytical-neural inverse kinematics solution for 3d human pose and shape estimation." *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. 2021.](http://openaccess.thecvf.com//content/CVPR2021/html/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.html)
+  - 3D keypoint / 3D mesh
+  - https://github.com/Jeff-sjtu/HybrIK
   
 - METRO (CVPR 2021)
+  
   - [Lin, Kevin, Lijuan Wang, and Zicheng Liu. "End-to-end human pose and mesh reconstruction with transformers." *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. 2021.](http://openaccess.thecvf.com//content/CVPR2021/html/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.html)
+  - 3D mesh
   - https://github.com/microsoft/MeshTransformer
   
 - BOA (CVPR 2021)
   - [Guan, Shanyan, et al. "Bilevel online adaptation for out-of-domain human mesh reconstruction." *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*. 2021.](http://openaccess.thecvf.com//content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html)
+  - 3D mesh
   - https://github.com/syguan96/BOA
   
-- HybrIK (CVPR 2021)
-  - [Li, Jiefeng, et al. "Hybrik: A hybrid analytical-neural inverse kinematics solution for 3d human pose and shape estimation." *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. 2021.](http://openaccess.thecvf.com//content/CVPR2021/html/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.html)
-  - https://github.com/Jeff-sjtu/HybrIK
+- MAED (ICCV 2021)
+  
+  - [Wan, Ziniu, et al. "Encoder-decoder with multi-level attention for 3D human shape and pose estimation." *Proceedings of the IEEE/CVF International Conference on Computer Vision*. 2021.](http://openaccess.thecvf.com//content/ICCV2021/html/Wan_Encoder-Decoder_With_Multi-Level_Attention_for_3D_Human_Shape_and_Pose_ICCV_2021_paper.html)
+  - 3D keypoint / 3D mesh
+  - https://github.com/ziniuwan/maed
   
 - ROMP (ICCV 2021)
-  - [Sun, Yu, et al. "Monocular, one-stage, regression of multiple 3d people." *Proceedings of the IEEE/CVF international conference on computer vision*. 2021.](http://openaccess.thecvf.com//content/ICCV2021/html/Sun_Monocular_One-Stage_Regression_of_Multiple_3D_People_ICCV_2021_paper.html)
-  - https://github.com/Arthur151/ROMP
   
-- MAED (ICCV 2021)
-  - [Wan, Ziniu, et al. "Encoder-decoder with multi-level attention for 3D human shape and pose estimation." *Proceedings of the IEEE/CVF International Conference on Computer Vision*. 2021.](http://openaccess.thecvf.com//content/ICCV2021/html/Wan_Encoder-Decoder_With_Multi-Level_Attention_for_3D_Human_Shape_and_Pose_ICCV_2021_paper.html)
-  - https://github.com/ziniuwan/maed
+  - [Sun, Yu, et al. "Monocular, one-stage, regression of multiple 3d people." *Proceedings of the IEEE/CVF international conference on computer vision*. 2021.](http://openaccess.thecvf.com//content/ICCV2021/html/Sun_Monocular_One-Stage_Regression_of_Multiple_3D_People_ICCV_2021_paper.html)
+  - 3D mesh
+  - https://github.com/Arthur151/ROMP
   
 - Mesh Graphormer (ICCV 2021)
   - [Lin, Kevin, Lijuan Wang, and Zicheng Liu. "Mesh graphormer." *Proceedings of the IEEE/CVF international conference on computer vision*. 2021.](http://openaccess.thecvf.com//content/ICCV2021/html/Lin_Mesh_Graphormer_ICCV_2021_paper.html)
+  - 3D mesh
   - https://github.com/microsoft/meshgraphormer
   
 - PARE (ICCV 2021)
   - [Kocabas, Muhammed, et al. "PARE: Part attention regressor for 3D human body estimation." *Proceedings of the IEEE/CVF International Conference on Computer Vision*. 2021.](http://openaccess.thecvf.com//content/ICCV2021/html/Kocabas_PARE_Part_Attention_Regressor_for_3D_Human_Body_Estimation_ICCV_2021_paper.html)
+  - 3D mesh
   - https://github.com/mkocabas/PARE
   
 - MixSTE (CVPR 2022)
   - [Zhang, Jinlu, et al. "Mixste: Seq2seq mixed spatio-temporal encoder for 3d human pose estimation in video." *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*. 2022.](http://openaccess.thecvf.com//content/CVPR2022/html/Zhang_MixSTE_Seq2seq_Mixed_Spatio-Temporal_Encoder_for_3D_Human_Pose_Estimation_CVPR_2022_paper.html)
+  - 3D keypoint
   - https://github.com/JinluZhang1126/MixSTE
   
 - PPT (ECCV 2022)
   - [Ma, Haoyu, et al. "PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation." *Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part V*. Cham: Springer Nature Switzerland, 2022.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/46_ECCV_2022_paper.php)
+  - 3D keypoint
   - https://github.com/howiema/ppt
   
 - FastMETRO (ECCV 2022)
   - [Cho, Junhyeong, Kim Youwang, and  Tae-Hyun Oh. "Cross-Attention of Disentangled Modalities for 3D Human  Mesh Recovery with Transformers." *Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part I*. Cham: Springer Nature Switzerland, 2022.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2116_ECCV_2022_paper.php)
+  - 3D keypoint / 3D mesh
   - https://github.com/postech-ami/fastmetro
   
 - CLIFF (ECCV 2022)
   - [Li, Zhihao, et al. "Cliff: Carrying location information in full frames into human pose and shape estimation." *Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part V*. Cham: Springer Nature Switzerland, 2022.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1620_ECCV_2022_paper.php)
+  - 3D mesh
   - https://github.com/huawei-noah/noah-research/tree/master/CLIFF
   
 - DST-VIBE (WACV 2022)
   - [Li, Ziwen, et al. "Deep Two-Stream Video Inference for Human Body Pose and Shape Estimation." *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision*. 2022.](https://openaccess.thecvf.com/content/WACV2022/html/Li_Deep_Two-Stream_Video_Inference_for_Human_Body_Pose_and_Shape_WACV_2022_paper.html)
+  
+  - 3D mesh
   
     
 
