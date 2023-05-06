@@ -8,6 +8,10 @@ List of research papers related to human pose.
 
 [paperswithcode](https://paperswithcode.com/task/2d-human-pose-estimation)
 
+### 2016
+
+- **Stacked Hourglass** "Stacked Hourglass Networks for Human Pose Estimation" (arXiv 2016) [[paper](https://arxiv.org/abs/1603.06937)]
+
 ### 2017
 
 - **CMU-Pose** "Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields" (**CVPR 2017**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.html)] [[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)] 
@@ -42,17 +46,21 @@ List of research papers related to human pose.
 - **TRB** "TRB: A Novel Triplet Representation for Understanding 2D Human Body" (**ICCV 2019**) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Duan_TRB_A_Novel_Triplet_Representation_for_Understanding_2D_Human_Body_ICCV_2019_paper.html)] [[code](https://github.com/kennymckormick/Triplet-Representation-of-human-Body)]
 - "Single-Stage Multi-Person Pose Machines" (**ICCV 2019**) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Nie_Single-Stage_Multi-Person_Pose_Machines_ICCV_2019_paper.html)]
 - **PoseWarper** "Learning Temporal Pose Estimation from Sparsely-Labeled Videos" (**NeurIPS 2019**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/7137debd45ae4d0ab9aa953017286b20-Abstract.html)] [[code](https://github.com/facebookresearch/PoseWarper)]
+- **CenterNet** "Objects as Points" (arXiv 2019) [[paper](https://arxiv.org/abs/1904.07850)] [[code](https://github.com/xingyizhou/CenterNet)]
 
 ### 2020
 
+- 💡 **HigherHRNet** "HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation" (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_HigherHRNet_Scale-Aware_Representation_Learning_for_Bottom-Up_Human_Pose_Estimation_CVPR_2020_paper.html)] [[code](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)]
 - "The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation" (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Huang_The_Devil_Is_in_the_Details_Delving_Into_Unbiased_Data_CVPR_2020_paper.html)] [[code](https://github.com/HuangJunJie2017/UDP-Pose)]
 - "Distribution-Aware Coordinate Representation for Human Pose Estimation" (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distribution-Aware_Coordinate_Representation_for_Human_Pose_Estimation_CVPR_2020_paper.html)] [[code](https://github.com/ilovepose/DarkPose)]
+- 💡 **SimplePose** "Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation" (**AAAI 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6797)] [[code](https://github.com/hellojialee/Improved-Body-Parts)]
 - **HGG** "Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation" (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/386_ECCV_2020_paper.php)]
 
 ### 2021
 
+- 💡 **DEKR** "Bottom-Up Human Pose Estimation via Disentangled Keypoint Regression" (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Geng_Bottom-Up_Human_Pose_Estimation_via_Disentangled_Keypoint_Regression_CVPR_2021_paper.html)] [[code](https://github.com/HRNet/DEKR)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2021_summaries/373/)]
+- 💡 **Lite-HRNet** "Lite-HRNet: A Lightweight High-Resolution Network " (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Lite-HRNet_A_Lightweight_High-Resolution_Network_CVPR_2021_paper.html)] [[code](https://github.com/HRNet/Lite-HRNet)]
 - **SAHR** "Rethinking the Heatmap Regression for Bottom-Up Human Pose Estimation" (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Rethinking_the_Heatmap_Regression_for_Bottom-Up_Human_Pose_Estimation_CVPR_2021_paper.html)] [[code](https://github.com/greatlog/SWAHR-HumanPose)] [xpaper](http://xpaperchallenge.org/cv/survey/cvpr2021_summaries/422/)]
-- **DEKR** "Bottom-Up Human Pose Estimation via Disentangled Keypoint Regression" (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Geng_Bottom-Up_Human_Pose_Estimation_via_Disentangled_Keypoint_Regression_CVPR_2021_paper.html)] [[code](https://github.com/HRNet/DEKR)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2021_summaries/373/)]
 - **FCPose** "FCPose: Fully Convolutional Multi-Person Pose Estimation With Dynamic Instance-Aware Convolutions" (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Mao_FCPose_Fully_Convolutional_Multi-Person_Pose_Estimation_With_Dynamic_Instance-Aware_Convolutions_CVPR_2021_paper.html)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2021_summaries/178/)]
 - **Keypoint Communities** "Keypoint Communities" (**ICCV 2021**) [[paper](http://openaccess.thecvf.com//content/ICCV2021/html/Zauss_Keypoint_Communities_ICCV_2021_paper.html)] [[code](https://github.com/duncanzauss/keypoint_communities)]
 - **MIPNet** "Multi-Instance Pose Networks: Rethinking Top-Down Pose Estimation" (**ICCV 2021**) [[paper](http://openaccess.thecvf.com//content/ICCV2021/html/Khirodkar_Multi-Instance_Pose_Networks_Rethinking_Top-Down_Pose_Estimation_ICCV_2021_paper.html)] [[code](https://github.com/rawalkhirodkar/MIPNet)]
@@ -96,6 +104,8 @@ List of research papers related to human pose.
 - "Learning 3D Human Pose from Structure and Motion" (**ECCV 2018**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Rishabh_Dabral_Learning_3D_Human_ECCV_2018_paper.html)] \<skelton-based\> \<volume-based\>
 - 💡 "Integral Human Pose Regression" (**ECCV 2018**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.html)] [[code](https://github.com/JimmySuen/integral-human-pose)] \<skelton-based\>
 - "Deep Autoencoder for Combined Human Pose Estimation and Body Model Upscaling" (**ECCV 2018**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Matthew_Trumble_Deep_Autoencoder_for_ECCV_2018_paper.html)] \<skelton-based\> \<volume-based\>
+- **MubyNet** "Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images" (**NeurIPS 2018**) [[paper](https://papers.nips.cc/paper_files/paper/2018/hash/6a6610feab86a1f294dbbf5855c74af9-Abstract.html)] [[code](https://github.com/alinionutpopa/MubyNet)] \<skelton-based\> \<volume-based\>
+- 
 
 ### 2019
 
@@ -116,7 +126,10 @@ List of research papers related to human pose.
 
 - **Epipolar Transformer** "Epipolar Transformers" (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/He_Epipolar_Transformers_CVPR_2020_paper.html)] [[code](https://github.com/yihui-he/epipolar-transformers)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2020_summaries/1022/)] \<skelton-based\>
 - **LWCDR** "Lightweight Multi-View 3D Pose Estimation Through Camera-Disentangled Representation" (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Remelli_Lightweight_Multi-View_3D_Pose_Estimation_Through_Camera-Disentangled_Representation_CVPR_2020_paper.html)] \<skelton-based\>
-- "Detailed 2D-3D Joint Representation for Human-Object Interaction" [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Detailed_2D-3D_Joint_Representation_for_Human-Object_Interaction_CVPR_2020_paper.html)] [[code](https://github.com/DirtyHarryLYL/DJ-RN)] [[xpaper](https://xpaperchallenge.org/cv/survey/cvpr2020_summaries/669/)] \<skelton-based\> \<volume-based\>
+- "Detailed 2D-3D Joint Representation for Human-Object Interaction" (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Detailed_2D-3D_Joint_Representation_for_Human-Object_Interaction_CVPR_2020_paper.html)] [[code](https://github.com/DirtyHarryLYL/DJ-RN)] [[xpaper](https://xpaperchallenge.org/cv/survey/cvpr2020_summaries/669/)] \<skelton-based\> \<volume-based\>
+- "Deep Reinforcement Learning for Active Human Pose Estimation" (**AAAI 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6714)] [[code](https://github.com/aleksispi/pose-drl)] \<volume-based\>
+- "Kinematic-Structure-Preserved Representation for Unsupervised 3D Human Pose Estimation" (**AAAI 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6792)] [[code]()]
+
 - **UGCN** "Motion Guided 3D Pose Estimation from Videos" (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2054_ECCV_2020_paper.php)] [[code](https://github.com/tamasino52/UGCN)] \<skelton-based\>
 - **HKMR** "Hierarchical Kinematic Human Mesh Recovery" (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2889_ECCV_2020_paper.php)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2020_summaries/193/)] \<skelton-based\>
 - **I2L-MeshNet** "I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image" (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/397_ECCV_2020_paper.php)] [[code](https://github.com/mks0601/I2L-MeshNet_RELEASE)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2020_summaries/151/)] \<3D skelton\> \<volume-based\>
@@ -139,23 +152,15 @@ List of research papers related to human pose.
 
 ### 2022
 
-- 💡 **ElePose** "ElePose: Unsupervised 3D Human Pose Estimation by Predicting Camera Elevation and Learning Normalizing Flows on 2D Poses" (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wandt_ElePose_Unsupervised_3D_Human_Pose_Estimation_by_Predicting_Camera_Elevation_CVPR_2022_paper.html)] [[code](https://github.com/bastianwandt/ElePose)]
-
-- **MixSTE** "MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video" (**CVPR 2022**) [[paper](http://openaccess.thecvf.com//content/CVPR2022/html/Zhang_MixSTE_Seq2seq_Mixed_Spatio-Temporal_Encoder_for_3D_Human_Pose_Estimation_CVPR_2022_paper.html)] [[code](https://github.com/JinluZhang1126/MixSTE)] \<skelton-based\>
-
-- 💡 **DeciWatch** "DeciWatch: A Simple Baseline for 10× Efficient 2D and 3D Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net//papers/eccv_2022/papers_ECCV/html/1845_ECCV_2022_paper.php)] [[code](https://github.com/cure-lab/DeciWatch)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/188/)] \<skelton-based\>
-
-- **PPT** "PPT: Token-Pruned Pose Transformer for Monocular and Multi-View Human Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/46_ECCV_2022_paper.php)] [[code](https://github.com/howiema/ppt)] \<skelton-based\>
-
-- **FastMETRO** "Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers" (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2116_ECCV_2022_paper.php)] [[code](https://github.com/postech-ami/fastmetro)] \<skelton-based\> \<volume-based\>
-
-- **C3P** "C3P: Cross-Domain Pose Prior Propagation for Weakly Supervised 3D Human Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net//papers/eccv_2022/papers_ECCV/html/1364_ECCV_2022_paper.php)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/272/)] \<skelton-based\> \<volume-based\>
-
-- **DSED** "Explicit Occlusion Reasoning for Multi-Person 3D Human Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net//papers/eccv_2022/papers_ECCV/html/615_ECCV_2022_paper.php)] [[code](https://github.com/qihao067/HUPOR)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/186/)] \<skelton-based\>
-
-- **CLIFF** "CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1620_ECCV_2022_paper.php)] [[code](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/182)] \<volume-based\>
-
 - **DST-VIBE** "Deep Two-Stream Video Inference for Human Body Pose and Shape Estimation" (**WACV 2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Li_Deep_Two-Stream_Video_Inference_for_Human_Body_Pose_and_Shape_WACV_2022_paper.html)] \<volume-based\>
+- 💡 **ElePose** "ElePose: Unsupervised 3D Human Pose Estimation by Predicting Camera Elevation and Learning Normalizing Flows on 2D Poses" (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wandt_ElePose_Unsupervised_3D_Human_Pose_Estimation_by_Predicting_Camera_Elevation_CVPR_2022_paper.html)] [[code](https://github.com/bastianwandt/ElePose)]
+- **MixSTE** "MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video" (**CVPR 2022**) [[paper](http://openaccess.thecvf.com//content/CVPR2022/html/Zhang_MixSTE_Seq2seq_Mixed_Spatio-Temporal_Encoder_for_3D_Human_Pose_Estimation_CVPR_2022_paper.html)] [[code](https://github.com/JinluZhang1126/MixSTE)] \<skelton-based\>
+- 💡 **DeciWatch** "DeciWatch: A Simple Baseline for 10× Efficient 2D and 3D Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net//papers/eccv_2022/papers_ECCV/html/1845_ECCV_2022_paper.php)] [[code](https://github.com/cure-lab/DeciWatch)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/188/)] \<skelton-based\>
+- **PPT** "PPT: Token-Pruned Pose Transformer for Monocular and Multi-View Human Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/46_ECCV_2022_paper.php)] [[code](https://github.com/howiema/ppt)] \<skelton-based\>
+- **FastMETRO** "Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers" (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2116_ECCV_2022_paper.php)] [[code](https://github.com/postech-ami/fastmetro)] \<skelton-based\> \<volume-based\>
+- **C3P** "C3P: Cross-Domain Pose Prior Propagation for Weakly Supervised 3D Human Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net//papers/eccv_2022/papers_ECCV/html/1364_ECCV_2022_paper.php)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/272/)] \<skelton-based\> \<volume-based\>
+- **DSED** "Explicit Occlusion Reasoning for Multi-Person 3D Human Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net//papers/eccv_2022/papers_ECCV/html/615_ECCV_2022_paper.php)] [[code](https://github.com/qihao067/HUPOR)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/186/)] \<skelton-based\>
+- **CLIFF** "CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1620_ECCV_2022_paper.php)] [[code](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/182)] \<volume-based\>
 
 
 
@@ -180,6 +185,7 @@ List of research papers related to human pose.
 - 💡 **DetTrack** "Combining Detection and Tracking for Human Pose Estimation in Videos" (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Combining_Detection_and_Tracking_for_Human_Pose_Estimation_in_Videos_CVPR_2020_paper.html)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2020_summaries/657)]
 - 💡 **KeyTrack** "15 Keypoints Is All You Need" (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Snower_15_Keypoints_Is_All_You_Need_CVPR_2020_paper.html)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2020_summaries/123/)]
 - "Cross-View Tracking for Multi-Human 3D Pose Estimation at Over 100 FPS" (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Cross-View_Tracking_for_Multi-Human_3D_Pose_Estimation_at_Over_100_CVPR_2020_paper.html)] 
+- 💡 **CenterTrack** "Tracking Objects as Points" (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2342_ECCV_2020_paper.php)] [[code](https://github.com/xingyizhou/CenterTrack)]
 
 ### 2021
 
@@ -209,12 +215,12 @@ List of research papers related to human pose.
 
 ### 2020
 
+- **D3D** "D3D: Distilled 3D Networks for Video Action Recognition" (**WACV 2020**) [[paper](https://openaccess.thecvf.com/content_WACV_2020/html/Stroud_D3D_Distilled_3D_Networks_for_Video_Action_Recognition_WACV_2020_paper.html)] [[code](https://github.com/princeton-vl/d3dhelper)]
 - **MD-G3D** "Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition" (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Disentangling_and_Unifying_Graph_Convolutions_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.html)] [[code](https://github.com/kenziyuliu/ms-g3d)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2020_summaries/192/)]
 - **SGN** "Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition" (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Semantics-Guided_Neural_Networks_for_Efficient_Skeleton-Based_Human_Action_Recognition_CVPR_2020_paper.html)] [[code](https://github.com/microsoft/SGN)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2020_summaries/288/)]
 - **Shift-GCN** "Skeleton-Based Action Recognition With Shift Graph Convolutional Network" (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.html)] [[code](https://github.com/kchengiva/Shift-GCN)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2020_summaries/146/)]
 - **PREDICT & CLUSTER** "PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition" (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Su_PREDICT__CLUSTER_Unsupervised_Skeleton_Based_Action_Recognition_CVPR_2020_paper.html)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2020_summaries/953/)]
 - **OmniSource** "Omni-sourced Webly-supervised Learning for Video Recognition " (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2433_ECCV_2020_paper.php)]
-- **D3D** "D3D: Distilled 3D Networks for Video Action Recognition" (**WACV 2020**) [[paper](https://openaccess.thecvf.com/content_WACV_2020/html/Stroud_D3D_Distilled_3D_Networks_for_Video_Action_Recognition_WACV_2020_paper.html)] [[code](https://github.com/princeton-vl/d3dhelper)]
 
 ### 2021
 
@@ -227,19 +233,13 @@ List of research papers related to human pose.
 
 ### 2022
 
-- **InfoGCN** "InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition" (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chi_InfoGCN_Representation_Learning_for_Human_Skeleton-Based_Action_Recognition_CVPR_2022_paper.html)] [[code](https://github.com/stnoah1/infogcn)]
-
-- **PoseConv3D** "Revisiting Skeleton-Based Action Recognition" (**CVPR 2022**) [[paper](http://openaccess.thecvf.com//content/CVPR2022/html/Duan_Revisiting_Skeleton-Based_Action_Recognition_CVPR_2022_paper.html)] [[code](https://github.com/kennymckormick/pyskl)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/615/)]
-
-- **SIFA** "Stand-Alone Inter-Frame Attention in Video Models" (**CVPR 2022**) [[paper](http://openaccess.thecvf.com//content/CVPR2022/html/Long_Stand-Alone_Inter-Frame_Attention_in_Video_Models_CVPR_2022_paper.html)] [[code](https://github.com/fuchenustc/sifa)]
-
-- **UniFormer** "UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning" (**ICLA 2022**) [[paper](https://openreview.net/forum?id=nBU_u6DLvoK)] [[code](https://github.com/sense-x/uniformer)]
-
 - **PERF-Net** "PERF-Net: Pose Empowered RGB-Flow Net" (**WACV 2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Li_PERF-Net_Pose_Empowered_RGB-Flow_Net_WACV_2022_paper.html)]
-
 - **BQN** "Busy-Quiet Video Disentangling for Video Classification" (**WACV 2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Huang_Busy-Quiet_Video_Disentangling_for_Video_Classification_WACV_2022_paper.html)] [[code](https://github.com/guoxih/Busy-Quiet-Video-Disentangling-for-Video-Classification)]
-
 - **JMRN** "Pose and Joint-Aware Action Recognition" (**WACV 2022**) [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Shah_Pose_and_Joint-Aware_Action_Recognition_WACV_2022_paper.html)] [[code](https://github.com/anshulbshah/PoseAction)]
+- **InfoGCN** "InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition" (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chi_InfoGCN_Representation_Learning_for_Human_Skeleton-Based_Action_Recognition_CVPR_2022_paper.html)] [[code](https://github.com/stnoah1/infogcn)]
+- **PoseConv3D** "Revisiting Skeleton-Based Action Recognition" (**CVPR 2022**) [[paper](http://openaccess.thecvf.com//content/CVPR2022/html/Duan_Revisiting_Skeleton-Based_Action_Recognition_CVPR_2022_paper.html)] [[code](https://github.com/kennymckormick/pyskl)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/615/)]
+- **SIFA** "Stand-Alone Inter-Frame Attention in Video Models" (**CVPR 2022**) [[paper](http://openaccess.thecvf.com//content/CVPR2022/html/Long_Stand-Alone_Inter-Frame_Attention_in_Video_Models_CVPR_2022_paper.html)] [[code](https://github.com/fuchenustc/sifa)]
+- **UniFormer** "UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning" (**ICLA 2022**) [[paper](https://openreview.net/forum?id=nBU_u6DLvoK)] [[code](https://github.com/sense-x/uniformer)]
 
 
 
@@ -264,8 +264,7 @@ List of research papers related to human pose.
 
 ## Survey
 
-- "Monocular Human Pose Estimation: A Survey of Deep Learning-based Methods" [[paper](https://arxiv.org/abs/2006.01423)]
-- "Deep Learning-Based Human Pose Estimation: A Survey" [[paper](https://arxiv.org/abs/2012.13392)]
-- "Single Person Pose Estimation: A Survey" [[paper](https://arxiv.org/abs/2109.10056)]
-- "2D Human Pose Estimation: A Survey" [[paper](https://arxiv.org/abs/2204.07370)]
-
+- "Monocular Human Pose Estimation: A Survey of Deep Learning-based Methods" (arXiv 2020) [[paper](https://arxiv.org/abs/2006.01423)]
+- "Deep Learning-Based Human Pose Estimation: A Survey" (arXiv 2020) [[paper](https://arxiv.org/abs/2012.13392)]
+- "Single Person Pose Estimation: A Survey" (arXiv 2021) [[paper](https://arxiv.org/abs/2109.10056)]
+- "2D Human Pose Estimation: A Survey" (arXiv 2022) [[paper](https://arxiv.org/abs/2204.07370)]
