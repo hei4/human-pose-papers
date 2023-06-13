@@ -16,7 +16,6 @@ List of research papers related to human pose.
 
 - **CMU-Pose** "Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields" (**CVPR 2017**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.html)] [[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)] 
 - "Towards Accurate Multi-Person Pose Estimation in the Wild" (**CVPR 2017**) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Papandreou_Towards_Accurate_Multi-Person_CVPR_2017_paper.html)]
-- "ArtTrack: Articulated Multi-Person Tracking in the Wild" (**CVPR 2017**) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Insafutdinov_ArtTrack_Articulated_Multi-Person_CVPR_2017_paper.html)]
 - **RMPE** "RMPE: Regional Multi-Person Pose Estimation" (**ICCV 2017**) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html)]
 - "Learning feature pyramids for human pose estimation" (**ICCV 2017**) [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Yang_Learning_Feature_Pyramids_ICCV_2017_paper.html)] 
 - "Adversarial PoseNet: A Structure-Aware Convolutional Network for Human Pose Estimation" (**ICCV 2017**) [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Chen_Adversarial_PoseNet_A_ICCV_2017_paper.html)]
@@ -99,6 +98,11 @@ List of research papers related to human pose.
 - "A Characteristic Function-Based Method for Bottom-Up Human Pose Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Qu_A_Characteristic_Function-Based_Method_for_Bottom-Up_Human_Pose_Estimation_CVPR_2023_paper.html)]
 - "Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.html)]
 - "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html)]
+- "Analyzing and Diagnosing Pose Estimation With Attributions" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/He_Analyzing_and_Diagnosing_Pose_Estimation_With_Attributions_CVPR_2023_paper.html)]
+- "Human Pose Estimation in Extremely Low-Light Conditions" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Human_Pose_Estimation_in_Extremely_Low-Light_Conditions_CVPR_2023_paper.html)]
+- **PCT** "Human Pose As Compositional Tokens" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Geng_Human_Pose_As_Compositional_Tokens_CVPR_2023_paper.html)] [[code](https://github.com/Gengzigang/PCT)]
+- "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html)]
+- **DistilPose** "DistilPose: Tokenized Pose Regression With Heatmap Distillation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ye_DistilPose_Tokenized_Pose_Regression_With_Heatmap_Distillation_CVPR_2023_paper.html)]
 
 
 
@@ -220,7 +224,7 @@ List of research papers related to human pose.
 - "Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows" (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wehrbein_Probabilistic_Monocular_3D_Human_Pose_Estimation_With_Normalizing_Flows_ICCV_2021_paper.html)] \<skelton-based\>
 - "Towards Alleviating the Modeling Ambiguity of Unsupervised Monocular 3D Human Pose Estimation" (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Towards_Alleviating_the_Modeling_Ambiguity_of_Unsupervised_Monocular_3D_Human_ICCV_2021_paper.html)] \<skelton-based\>
 - "Camera Distortion-Aware 3D Human Pose Estimation in Video With Optimization-Based Meta-Learning" (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cho_Camera_Distortion-Aware_3D_Human_Pose_Estimation_in_Video_With_Optimization-Based_ICCV_2021_paper.html)] \<skelton-based\>
-- "3D Human Pose Estimation With Spatial and Temporal Transformers" (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_3D_Human_Pose_Estimation_With_Spatial_and_Temporal_Transformers_ICCV_2021_paper.html)] [[code](https://github.com/zczcwh/PoseFormer)] \<skelton-based\>
+- **PoseFormer** "3D Human Pose Estimation With Spatial and Temporal Transformers" (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_3D_Human_Pose_Estimation_With_Spatial_and_Temporal_Transformers_ICCV_2021_paper.html)] [[code](https://github.com/zczcwh/PoseFormer)] \<skelton-based\>
 - **MAED** "Encoder-Decoder With Multi-Level Attention for 3D Human Shape and Pose Estimation" (**ICCV 2021**) [[paper](http://openaccess.thecvf.com//content/ICCV2021/html/Wan_Encoder-Decoder_With_Multi-Level_Attention_for_3D_Human_Shape_and_Pose_ICCV_2021_paper.html)] [[code](https://github.com/ziniuwan/maed)] \<skelton-based\> \<volume-based\>
 - **ROMP** "Monocular, One-Stage, Regression of Multiple 3D People" (**ICCV 2021**) [[paper](http://openaccess.thecvf.com//content/ICCV2021/html/Sun_Monocular_One-Stage_Regression_of_Multiple_3D_People_ICCV_2021_paper.html)] [[code](https://github.com/Arthur151/ROMP)] \<volume-based\>
 - "Mesh Graphormer" (**ICCV 2021**) [[paper](http://openaccess.thecvf.com//content/ICCV2021/html/Lin_Mesh_Graphormer_ICCV_2021_paper.html)] [[code](https://github.com/microsoft/meshgraphormer)] \<volume-based\>
@@ -248,11 +252,30 @@ List of research papers related to human pose.
 - **Faster VoxelPose** "Faster VoxelPose: Real-Time 3D Human Pose Estimation by Orthographic Projection" (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4748_ECCV_2022_paper.php)] [[code](https://github.com/AlvinYH/Faster-VoxelPose)] \<skelton-based\> \<multi-view\>
 - **PPT** "PPT: Token-Pruned Pose Transformer for Monocular and Multi-View Human Pose Estimation" (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/46_ECCV_2022_paper.php)] [[code](https://github.com/howiema/ppt)] \<skelton-based\> \<multi-view\>
 
+### 2023
+
+- **GFPose** "GFPose: Learning 3D Human Pose Prior With Gradient Fields" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ci_GFPose_Learning_3D_Human_Pose_Prior_With_Gradient_Fields_CVPR_2023_paper.html)] \<skelton-based\>
+- **PoseFormerV2** "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_PoseFormerV2_Exploring_Frequency_Domain_for_Efficient_and_Robust_3D_Human_CVPR_2023_paper.html)] \<skelton-based\>
+- "Scene-Aware Egocentric 3D Human Pose Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Scene-Aware_Egocentric_3D_Human_Pose_Estimation_CVPR_2023_paper.html)] \<skelton-based\>
+- **DiffPose** "DiffPose: Toward More Reliable 3D Pose Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gong_DiffPose_Toward_More_Reliable_3D_Pose_Estimation_CVPR_2023_paper.html)] [[code](https://gongjia0208.github.io/Diffpose/)] \<skelton-based\>
+- "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Peng_Trajectory-Aware_Body_Interaction_Transformer_for_Multi-Person_Pose_Forecasting_CVPR_2023_paper.html)] \<skelton-based\>
+- "Global-to-Local Modeling for Video-Based 3D Human Pose and Shape Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shen_Global-to-Local_Modeling_for_Video-Based_3D_Human_Pose_and_Shape_Estimation_CVPR_2023_paper.html)] \<volume-based\>
+- **PoseExaminer** "PoseExaminer: Automated Testing of Out-of-Distribution Robustness in Human Pose and Shape Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_PoseExaminer_Automated_Testing_of_Out-of-Distribution_Robustness_in_Human_Pose_and_CVPR_2023_paper.html)] [[code](https://github.com/qihao067/PoseExaminer)] \<volume-based\>
+- **PSVT** "PSVT: End-to-End Multi-Person 3D Pose and Shape Estimation With Progressive Video Transformers" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Qiu_PSVT_End-to-End_Multi-Person_3D_Pose_and_Shape_Estimation_With_Progressive_CVPR_2023_paper.html)] \<volume-based\>
+- **NIKI** "NIKI: Neural Inverse Kinematics With Invertible Neural Networks for 3D Human Pose and Shape Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_NIKI_Neural_Inverse_Kinematics_With_Invertible_Neural_Networks_for_3D_CVPR_2023_paper.html)] \<volume-based\>
+- **HuManiFlow** "HuManiFlow: Ancestor-Conditioned Normalising Flows on SO(3) Manifolds for Human Pose and Shape Distribution Estimation" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sengupta_HuManiFlow_Ancestor-Conditioned_Normalising_Flows_on_SO3_Manifolds_for_Human_Pose_CVPR_2023_paper.html)] \<volume-based\>
+- "Towards Stable Human Pose Estimation via Cross-View Fusion and Foot Stabilization" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhuo_Towards_Stable_Human_Pose_Estimation_via_Cross-View_Fusion_and_Foot_CVPR_2023_paper.html)] \<volume-based\>
+- "Implicit 3D Human Mesh Recovery Using Consistency With Pose and Shape From Unseen-View" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cho_Implicit_3D_Human_Mesh_Recovery_Using_Consistency_With_Pose_and_CVPR_2023_paper.html)] \<volume-based\>
+
 
 
 ## Human pose tracking
 
 [paperswithcode](https://paperswithcode.com/task/pose-tracking)
+
+### 2017
+
+- "ArtTrack: Articulated Multi-Person Tracking in the Wild" (**CVPR 2017**) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Insafutdinov_ArtTrack_Articulated_Multi-Person_CVPR_2017_paper.html)]
 
 ### 2018
 
@@ -277,6 +300,11 @@ List of research papers related to human pose.
 
 - **TesseTrack** "TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking" (**CVPR 2021**) [[paper](http://openaccess.thecvf.com//content/CVPR2021/html/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.html)]
 - 💡 **UniTrack** "Do Different Tracking Tasks Require Different Appearance Models?" (**NerIPS 2021**) [[paper](http://proceedings.neurips.cc/paper/2021/hash/06997f04a7db92466a2baa6ebc8b872d-Abstract.html)] [[code](https://github.com/Zhongdao/UniTrack)]
+
+### 2023
+
+- "Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_Mutual_Information-Based_Temporal_Difference_Learning_for_Human_Pose_Estimation_in_CVPR_2023_paper.html)]
+- "3D Human Pose Estimation With Spatio-Temporal Criss-Cross Attention" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_3D_Human_Pose_Estimation_With_Spatio-Temporal_Criss-Cross_Attention_CVPR_2023_paper.html)]
 
 
 
@@ -328,6 +356,10 @@ List of research papers related to human pose.
 - **SIFA** "Stand-Alone Inter-Frame Attention in Video Models" (**CVPR 2022**) [[paper](http://openaccess.thecvf.com//content/CVPR2022/html/Long_Stand-Alone_Inter-Frame_Attention_in_Video_Models_CVPR_2022_paper.html)] [[code](https://github.com/fuchenustc/sifa)]
 - **UniFormer** "UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning" (**ICLA 2022**) [[paper](https://openreview.net/forum?id=nBU_u6DLvoK)] [[code](https://github.com/sense-x/uniformer)]
 
+### 2023
+
+- "Unified Pose Sequence Modeling" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Foo_Unified_Pose_Sequence_Modeling_CVPR_2023_paper.html)]
+
 
 
 ## Dataset
@@ -342,10 +374,12 @@ List of research papers related to human pose.
 - **3DPW dataset** "Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera" (**ECCV 2018**) [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.html)] [[project](https://virtualhumans.mpi-inf.mpg.de/3DPW/)]
 - **OCHuman dataset** "Pose2Seg: Detection Free Human Instance Segmentation" (**CVPR 2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Pose2Seg_Detection_Free_Human_Instance_Segmentation_CVPR_2019_paper.html)] [[code](https://github.com/liruilong940607/Pose2Seg)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2019_summaries/346/)]
 - **COCO-WholeBody dataset** "Whole-Body Human Pose Estimation in the Wild" (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/768_ECCV_2020_paper.php)] [[project](https://github.com/jin-s13/COCO-WholeBody)]
-- **HVU dataset** "Large Scale Holistic Video Understanding" (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3994_ECCV_2020_paper.php)] [[code](https://github.com/holistic-video-understanding/HVU-Dataset)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2020_summaries/180/)]
-- **UltraPose dataset** "UltraPose: Synthesizing Dense Pose With 1 Billion Points by Human-Body Decoupling 3D Model" (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yan_UltraPose_Synthesizing_Dense_Pose_With_1_Billion_Points_by_Human-Body_ICCV_2021_paper.html)] [[code](https://github.com/MomoAILab/ultrapose)] [[xpaper](http://xpaperchallenge.org/cv/survey/iccv2021_summaries/133/)]
-- **BEHAVE dataset** "BEHAVE: Dataset and Method for Tracking Human Object Interactions" (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Bhatnagar_BEHAVE_Dataset_and_Method_for_Tracking_Human_Object_Interactions_CVPR_2022_paper.html)] [[code](https://virtualhumans.mpi-inf.mpg.de/behave/)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/214)]
-- **PoseTrack21 dataset** "PoseTrack21: A Dataset for Person Search, Multi-Object Tracking and Multi-Person Pose Tracking" (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Doring_PoseTrack21_A_Dataset_for_Person_Search_Multi-Object_Tracking_and_Multi-Person_CVPR_2022_paper.html)] [[code](https://github.com/anDoer/PoseTrack21)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/286/)]
+- **HVU dataset** "Large Scale Holistic Video Understanding" (**ECCV 2020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3994_ECCV_2020_paper.php)] [[project](https://github.com/holistic-video-understanding/HVU-Dataset)] [[xpaper](http://xpaperchallenge.org/cv/survey/eccv2020_summaries/180/)]
+- **UltraPose dataset** "UltraPose: Synthesizing Dense Pose With 1 Billion Points by Human-Body Decoupling 3D Model" (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yan_UltraPose_Synthesizing_Dense_Pose_With_1_Billion_Points_by_Human-Body_ICCV_2021_paper.html)] [[project](https://github.com/MomoAILab/ultrapose)] [[xpaper](http://xpaperchallenge.org/cv/survey/iccv2021_summaries/133/)]
+- **BEHAVE dataset** "BEHAVE: Dataset and Method for Tracking Human Object Interactions" (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Bhatnagar_BEHAVE_Dataset_and_Method_for_Tracking_Human_Object_Interactions_CVPR_2022_paper.html)] [[project](https://virtualhumans.mpi-inf.mpg.de/behave/)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/214)]
+- **PoseTrack21 dataset** "PoseTrack21: A Dataset for Person Search, Multi-Object Tracking and Multi-Person Pose Tracking" (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Doring_PoseTrack21_A_Dataset_for_Person_Search_Multi-Object_Tracking_and_Multi-Person_CVPR_2022_paper.html)] [[project](https://github.com/anDoer/PoseTrack21)] [[xpaper](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/286/)]
+- **SLOPER4D dataset** "SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Dai_SLOPER4D_A_Scene-Aware_Dataset_for_Global_4D_Human_Pose_Estimation_CVPR_2023_paper.html)] [[project](http://www.lidarhumanmotion.net/sloper4d/)]
+- **JRDB-Pose dataset** "JRDB-Pose: A Large-Scale Dataset for Multi-Person Pose Estimation and Tracking" (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Vendrow_JRDB-Pose_A_Large-Scale_Dataset_for_Multi-Person_Pose_Estimation_and_Tracking_CVPR_2023_paper.html)] [[project](https://jrdb.erc.monash.edu/)]
 
 
 
